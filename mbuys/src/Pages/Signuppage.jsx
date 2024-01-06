@@ -86,7 +86,7 @@ const Signuppage = () => {
             Submit
           </Button>
           <Typography variant="body1">
-            Already have an account? <a href="/login">Login</a>
+            Already have an account? <a href="/">Login</a>
           </Typography>
         </Box>
       </div>
