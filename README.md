@@ -1,6 +1,6 @@
-Certainly! Here's an updated section for your README file that describes the mbuys website:
 
-```markdown
+
+
 # E-Commerce Website
 
 This is an e-commerce website developed using the MERN stack. The website allows users to browse and purchase phones and laptops, add items to the cart, proceed to checkout, search for items, filter products, track orders, and avail a special 50% discount for orders above 5 items.
